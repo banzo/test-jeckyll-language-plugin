@@ -1,4 +1,4 @@
-logo: sea9.png
+logo: /sea9.png
 plugins:
   - jekyll-language-plugin
 
