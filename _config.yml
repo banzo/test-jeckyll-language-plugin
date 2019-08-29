@@ -1,0 +1,7 @@
+logo: sea9.png
+plugins:
+  - jekyll-language-plugin
+
+languages: ['en', 'fr']
+language_data: data.lang.%%
+language_includes_dir: _i18n
